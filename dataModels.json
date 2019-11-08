@@ -1,16 +1,1 @@
-{
-    "c235c9bc-5c8a-d517-f7b0-aaff7162a664": {
-        "dataModelId": "c235c9bc-5c8a-d517-f7b0-aaff7162a664",
-        "name": "register",
-        "description": "register details",
-        "dataSource": "neutrinos-training-rt",
-        "fields": [
-            {
-                "name": "firstName",
-                "fieldType": 2,
-                "isArray": false,
-                "type": "string"
-            }
-        ]
-    }
-}
+{}

@@ -1,5 +1,3 @@
 {
-    "dataSource": {
-        "register": "neutrinos-training-rt"
-    }
+    "dataSource": {}
 }
