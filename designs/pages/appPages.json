@@ -8,5 +8,10 @@
         "appPageName": "vayu",
         "componentName": "vayuComponent",
         "isEntry": false
+    },
+    "e493c9d3-864a-b7ea-921b-895b6fac0918": {
+        "appPageName": "another",
+        "componentName": "anotherComponent",
+        "isEntry": false
     }
 }

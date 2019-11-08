@@ -1,0 +1,13 @@
+{
+    "appPageId": "e493c9d3-864a-b7ea-921b-895b6fac0918",
+    "appPageName": "another",
+    "componentName": "anotherComponent",
+    "selectorName": "bh-another",
+    "htmlFileName": "another.template.html",
+    "tsFileName": "another.component.ts",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}
