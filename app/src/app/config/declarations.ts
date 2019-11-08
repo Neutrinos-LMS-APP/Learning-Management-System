@@ -14,6 +14,8 @@ window['neutrinos'] = {
 }
 
 //CORE_REFERENCE_IMPORTS
+//CORE_REFERENCE_IMPORT-tutorregistrationComponent
+import { tutorregistrationComponent } from '../components/tutorregistrationComponent/tutorregistration.component';
 //CORE_REFERENCE_IMPORT-instructorregistrationComponent
 import { instructorregistrationComponent } from '../components/instructorregistrationComponent/instructorregistration.component';
 
@@ -51,6 +53,8 @@ export const appDeclarations = [
   NMapComponent,
   ArtImgSrcDirective,
   //CORE_REFERENCE_PUSH_TO_DEC_ARRAY
+//CORE_REFERENCE_PUSH_TO_DEC_ARRAY-tutorregistrationComponent
+tutorregistrationComponent,
 //CORE_REFERENCE_PUSH_TO_DEC_ARRAY-instructorregistrationComponent
 instructorregistrationComponent,
 

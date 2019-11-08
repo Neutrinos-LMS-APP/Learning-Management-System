@@ -1,0 +1,13 @@
+{
+    "appPageId": "fc6baf15-ed39-986b-9d67-0e39521532e7",
+    "appPageName": "tutorRegistration",
+    "componentName": "tutorregistrationComponent",
+    "selectorName": "bh-tutorregistration",
+    "htmlFileName": "tutorregistration.template.html",
+    "tsFileName": "tutorregistration.component.ts",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}
