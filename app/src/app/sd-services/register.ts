@@ -58,6 +58,20 @@ export class register {
 
   //   service flows_register
 
+  public async register(...others) {
+    try {
+      let bh = { input: {}, local: {} };
+      bh = this.__constructDefault(bh);
+
+      //appendnew_next_register
+      //Start formatting output variables
+      let outputVariables = { input: {}, local: {} };
+      //End formatting output variables
+      return outputVariables;
+    } catch (e) {
+      throw e;
+    }
+  }
   //appendnew_flow_register_Start
 
   //appendnew_node
