@@ -1,0 +1,13 @@
+{
+    "appPageId": "02aae47b-360d-df35-feb2-71ed55ecf1c8",
+    "appPageName": "instructorRegistration",
+    "componentName": "instructorregistrationComponent",
+    "selectorName": "bh-instructorregistration",
+    "htmlFileName": "instructorregistration.template.html",
+    "tsFileName": "instructorregistration.component.ts",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}
