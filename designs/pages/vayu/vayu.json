@@ -1,0 +1,13 @@
+{
+    "appPageId": "57eb2f5f-0c2d-76ff-bcb6-ea3453df677f",
+    "appPageName": "vayu",
+    "componentName": "vayuComponent",
+    "selectorName": "bh-vayu",
+    "htmlFileName": "vayu.template.html",
+    "tsFileName": "vayu.component.ts",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}
