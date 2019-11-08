@@ -1,0 +1,20 @@
+<div fxLayout="row wrap" fxLayoutAlign="start stretch" [fxShow]="true" [fxHide]="false">
+  <form #reg="ngForm">
+    <mat-form-field [appearance]="&apos;legacy&apos;" [floatLabel]="&apos;auto&apos;">
+      <input matInput [(ngModel)]="dm.register.firstName" name="firstName" placeholder="firstName" required>
+
+    </mat-form-field>
+    <mat-form-field [appearance]="&apos;legacy&apos;" [floatLabel]="&apos;auto&apos;">
+      <input matInput placeholder="lastName" required>
+
+    </mat-form-field>
+    <mat-form-field [appearance]="&apos;legacy&apos;" [floatLabel]="&apos;auto&apos;">
+      <input matInput placeholder="DOB" required>
+
+    </mat-form-field>
+    <mat-form-field [appearance]="&apos;legacy&apos;" [floatLabel]="&apos;auto&apos;">
+      <input matInput placeholder="Email" required>
+
+    </mat-form-field><button mat-button (click)="saveData(reg)">register</button>
+  </form>
+</div>

@@ -1,0 +1,11 @@
+{
+    "artId": "",
+    "appName": "learningManagementSystem",
+    "description": "Learning Management System Application",
+    "lastModified": "2019-11-06T07:30:47.873Z",
+    "artURL": "http://localhost:3000/bhive-art/",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "dataSource": "neutrinos-training-rt",
+    "createDate": "2019-11-06T07:30:47.873Z"
+}
