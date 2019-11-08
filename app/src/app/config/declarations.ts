@@ -14,6 +14,8 @@ window['neutrinos'] = {
 }
 
 //CORE_REFERENCE_IMPORTS
+//CORE_REFERENCE_IMPORT-instructorregistrationComponent
+import { instructorregistrationComponent } from '../components/instructorregistrationComponent/instructorregistration.component';
 
 /**
  * Reads datasource object and injects the datasource object into window object
@@ -49,6 +51,8 @@ export const appDeclarations = [
   NMapComponent,
   ArtImgSrcDirective,
   //CORE_REFERENCE_PUSH_TO_DEC_ARRAY
+//CORE_REFERENCE_PUSH_TO_DEC_ARRAY-instructorregistrationComponent
+instructorregistrationComponent,
 
 ];
 
